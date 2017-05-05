@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aviv Becher &#8211; Baraza</title>
+	<atom:link href="/author/aviv-becher/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Between Miracle and Afterthought: Hebrew in MESAAS</title>
+		<link>/between-miracle-and-afterthought-hebrew-in-mesaas/</link>
+		<comments>/between-miracle-and-afterthought-hebrew-in-mesaas/#comments</comments>
+		<pubDate>Mon, 22 Sep 2014 02:55:55 +0000</pubDate>
+		<dc:creator><![CDATA[Aviv Becher]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[Language]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Palestine]]></category>
+
+		<guid isPermaLink="false">/?p=1159</guid>
+		<description><![CDATA[My parents, native Israelis with wide and deep ties to the Hebrew language, insisted, always, on maintaining a Hebrew-speaking household in the U.S. so that my two sisters and I might carry on in the world with “a miracle” of a language at our disposal. I remember my father telling me excitedly that, “before 1948, &#8230; <a href="/between-miracle-and-afterthought-hebrew-in-mesaas/" class="more-link">Continue reading <span class="screen-reader-text">Between Miracle and Afterthought: Hebrew in MESAAS</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/between-miracle-and-afterthought-hebrew-in-mesaas/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

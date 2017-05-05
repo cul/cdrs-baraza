@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Joscelyn Jurich &#8211; Baraza</title>
+	<atom:link href="/author/jjurich/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Bullet Films</title>
+		<link>/bullet-films/</link>
+		<pubDate>Mon, 01 Dec 2014 13:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[Joscelyn Jurich]]></dc:creator>
+				<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Syria]]></category>
+
+		<guid isPermaLink="false">/?p=1510</guid>
+		<description><![CDATA[An uncomfortably intimate close-up of a young man’s face opens one of the most recent “bullet films” by Syrian film collective Abounaddara entitled “Don’t Forget the Plums.” The penetrating eyes of the unnamed speaker confront the viewer as he gives cautionary advice about how to deal with the media: “When you’re live on air, the &#8230; <a href="/bullet-films/" class="more-link">Continue reading <span class="screen-reader-text">Bullet Films</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mara Lasky &#8211; Baraza</title>
+	<atom:link href="/author/mlasky/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Marseille and the Mediterranean Feminism of Massalia Blues</title>
+		<link>/marseille-and-mediterranean-feminism/</link>
+		<comments>/marseille-and-mediterranean-feminism/#comments</comments>
+		<pubDate>Mon, 16 Feb 2015 02:21:21 +0000</pubDate>
+		<dc:creator><![CDATA[Mara Lasky]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[French]]></category>
+		<category><![CDATA[Mediterranean]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1592</guid>
+		<description><![CDATA[Marseille’s designation as “European Capital of Culture” in 2013 has certainly improved the city’s image. From the New York Times to National Geographic, Marseille has received long-awaited attention for its urban and cultural transformation: after decades of violence, poverty, and social malaise, it is emerging as the new capital of the Mediterranean, a raffish, “rough &#8230; <a href="/marseille-and-mediterranean-feminism/" class="more-link">Continue reading <span class="screen-reader-text">Marseille and the Mediterranean Feminism of Massalia Blues</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/marseille-and-mediterranean-feminism/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

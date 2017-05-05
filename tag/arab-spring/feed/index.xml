@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arab Spring &#8211; Baraza</title>
+	<atom:link href="/tag/arab-spring/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>&#8220;Sumeida&#8217;s Song: Giving Operatic Voice to Revolution in Egypt&#8221;</title>
+		<link>/sumeidas/</link>
+		<pubDate>Sat, 02 Feb 2013 22:21:49 +0000</pubDate>
+		<dc:creator><![CDATA[Hani Omer]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arabic Literature]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Egypt Revolution]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=154</guid>
+		<description><![CDATA[&#160; &#160; &#160; &#160; &#8220;Egypt is heading towards civil war&#8221;, composer Mohammed Fairouz plainly states in discussion of his opera, Sumeida&#8217;s Song, which premiered at the Prototype Festival in SoHo. Civil war is perhaps too strong a word to describe the current state of affairs in Egypt, but few would argue with Fairouz that the &#8230; <a href="/sumeidas/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Sumeida&#8217;s Song: Giving Operatic Voice to Revolution in Egypt&#8221;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Watch the Throne: The Moroccan Monarchy’s Mic Check</title>
+		<link>/miccheck/</link>
+		<pubDate>Fri, 03 Aug 2012 04:39:35 +0000</pubDate>
+		<dc:creator><![CDATA[Chantal James]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Maghreb]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Freedom of Speech]]></category>
+		<category><![CDATA[Hip Hop]]></category>
+		<category><![CDATA[Morocco]]></category>
+		<category><![CDATA[North Africa]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Rap]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=249</guid>
+		<description><![CDATA[This July Morocco celebrated Throne Day, in celebration of King Mohammed VI’s ascension to the throne thirteen years ago. He seems to have much to celebrate; time and again, the crown asserts itself as secure against threats large and small. What has been the Moroccan monarchy’s secret to maintaining power in a post-Bouazizi world, when &#8230; <a href="/miccheck/" class="more-link">Continue reading <span class="screen-reader-text">Watch the Throne: The Moroccan Monarchy’s Mic Check</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Liberation Square</title>
+		<link>/liberationsquare/</link>
+		<pubDate>Thu, 29 Mar 2012 07:03:01 +0000</pubDate>
+		<dc:creator><![CDATA[Thalia Beaty]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Tahrir Square]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[Mubarak]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=360</guid>
+		<description><![CDATA[Ashraf Khalil’s Liberation Square offers a gritty and engrossing account of the events that took place in Egypt in 2011, using the voices of both Egypt’s most prominent political observers and the activists who risked everything in pursuit of an ever-elusive dream. Khalil, who has covered regional politics from Cairo, Jerusalem, and Iraq for a variety of &#8230; <a href="/liberationsquare/" class="more-link">Continue reading <span class="screen-reader-text">Liberation Square</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

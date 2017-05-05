@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AIPAC &#8211; Baraza</title>
+	<atom:link href="/tag/aipac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Occupy AIPAC: Continuing a Movement or Mimicking Discourse?</title>
+		<link>/occupyaipac/</link>
+		<pubDate>Mon, 12 Mar 2012 08:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[Candace Lukasik]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[AIPAC]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Occupy AIPAC]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=376</guid>
+		<description><![CDATA[Earlier this month, Occupy AIPAC convened as the national AIPAC conference took place in Washington, D.C. With the drum beats heralding war with Iran growing louder, what seemed lost in both the AIPAC conference and the Occupy AIPAC conference was Palestine. With the Israeli government and supporters of Israel distracting the discourse away from Israeli &#8230; <a href="/occupyaipac/" class="more-link">Continue reading <span class="screen-reader-text">Occupy AIPAC: Continuing a Movement or Mimicking Discourse?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

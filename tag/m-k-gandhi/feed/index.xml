@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>M.K. Gandhi &#8211; Baraza</title>
+	<atom:link href="/tag/m-k-gandhi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Images from the Present and a Letter from the Past</title>
+		<link>/images-from-the-present-and-a-letter-from-the-past/</link>
+		<comments>/images-from-the-present-and-a-letter-from-the-past/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 22:02:42 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Dust to Digital]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[M.K. Gandhi]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[The Annihilation of Caste Reading Group]]></category>
+		<category><![CDATA[British Raj]]></category>
+		<category><![CDATA[Caste]]></category>
+		<category><![CDATA[Dalits]]></category>
+		<category><![CDATA[Freedom Struggle]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=142</guid>
+		<description><![CDATA[These pictures were taken at the Dalit Adivasi Mahasamelanam, in November 2012, where tens of thousands of Dalits and Adivasis, including families of men, women, children, the elderly and in some cases, entire village communities, gathered together at the famous Ramlila Grounds in New Delhi in a campaign to end caste, caste discrimination, and caste &#8230; <a href="/images-from-the-present-and-a-letter-from-the-past/" class="more-link">Continue reading <span class="screen-reader-text">Images from the Present and a Letter from the Past</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/images-from-the-present-and-a-letter-from-the-past/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

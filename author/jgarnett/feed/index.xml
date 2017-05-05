@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Joy Garnett &#8211; Baraza</title>
+	<atom:link href="/author/jgarnett/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Cross-Pollination</title>
+		<link>/cross-pollination/</link>
+		<comments>/cross-pollination/#comments</comments>
+		<pubDate>Mon, 24 Nov 2014 02:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Joy Garnett]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Arabic Literature]]></category>
+		<category><![CDATA[Dust to Digital]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Text]]></category>
+
+		<guid isPermaLink="false">/?p=1495</guid>
+		<description><![CDATA[I’ve spent the past few years organizing materials that were left behind by my late grandfather, Ahmed Zaky Abushâdy (1892-1955), the well-known Egyptian Romantic poet—and physician, inventor, and bee scientist. Early on in my research, I became aware of two distinct narratives in the biographical literature: Abushâdy the Romantic Poet and Abushâdy the Bee Scientist. &#8230; <a href="/cross-pollination/" class="more-link">Continue reading <span class="screen-reader-text">Cross-Pollination</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/cross-pollination/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

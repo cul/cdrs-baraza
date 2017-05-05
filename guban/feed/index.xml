@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Book Review: Guban by Abdi Latif Ega</title>
+	<atom:link href="/guban/feed/" rel="self" type="application/rss+xml" />
+	<link>/guban/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Sun, 27 Nov 2016 17:51:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Ger Duany</title>
+		<link>/guban/#comment-188397</link>
+		<dc:creator><![CDATA[Ger Duany]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2015 07:49:44 +0000</pubDate>
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=653#comment-188397</guid>
+		<description><![CDATA[My brother, Abdi, 
+
+This is a fantastic noble and more of us is needed,  And thank you for this one!. 
+
+Cheers, 
+Ger]]></description>
+		<content:encoded><![CDATA[<p>My brother, Abdi, </p>
+<p>This is a fantastic noble and more of us is needed,  And thank you for this one!. </p>
+<p>Cheers,<br />
+Ger</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

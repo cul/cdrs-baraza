@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kashmiri mytholgy &#8211; Baraza</title>
+	<atom:link href="/tag/kashmiri-mytholgy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Plural Sources of Kashmiri Myths</title>
+		<link>/kashmir/</link>
+		<comments>/kashmir/#comments</comments>
+		<pubDate>Sat, 09 Mar 2013 00:00:16 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Kashmir]]></category>
+		<category><![CDATA[Kashmiri mytholgy]]></category>
+		<category><![CDATA[myth]]></category>
+		<category><![CDATA[Pluralism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=1</guid>
+		<description><![CDATA[Distinguished by their ability to imagine the unimaginable and assign meaning to meaningless, human beings have always been meaning-seekers, and therefore myth-makers. Mythology could be about the incomprehensible part of the physical world or even about what we call the spiritual realm, but the epistemes of myths fuse together the spiritual and the mundane. The &#8230; <a href="/kashmir/" class="more-link">Continue reading <span class="screen-reader-text">Plural Sources of Kashmiri Myths</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/kashmir/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

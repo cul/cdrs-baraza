@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Middle Eastern Studies &#8211; Baraza</title>
+	<atom:link href="/tag/middle-eastern-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>The Problem with Campus Watch</title>
+		<link>/campuswatch/</link>
+		<pubDate>Mon, 12 Mar 2012 08:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Campus Watch]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Middle East Forum]]></category>
+		<category><![CDATA[Middle Eastern Studies]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=370</guid>
+		<description><![CDATA[During my final year as an undergraduate student in Canada, I took a class taught by a professor whose monograph–which was required reading–argued that conflict, partisanship, and oppression in the Middle East were fundamentally attributed to tribalism. One lecture focused on honor killings as distinct from, and worse than, other kinds of domestic homicide because &#8230; <a href="/campuswatch/" class="more-link">Continue reading <span class="screen-reader-text">The Problem with Campus Watch</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

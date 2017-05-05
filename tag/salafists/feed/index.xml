@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Salafists &#8211; Baraza</title>
+	<atom:link href="/tag/salafists/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Libya’s Sufi Character Cannot Be Erased</title>
+		<link>/libyassufi/</link>
+		<comments>/libyassufi/#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 04:19:09 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[North Africa]]></category>
+		<category><![CDATA[Salafists]]></category>
+		<category><![CDATA[Sanusiyya]]></category>
+		<category><![CDATA[Sufi]]></category>
+		<category><![CDATA[Wahhabi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=240</guid>
+		<description><![CDATA[Multiple attacks on Sufi religious and historical sites last week highlight two threats to Libya’s democratic transition: Islamic extremism and the failure of the government to take action. On 25 August, Salafist extremists destroyed a Sufi shrine and library in Zlitan. The following day, Salafist extremists attacked the Sha’ab Mosque in Tripoli, which contained the graves of revered Sufi &#8230; <a href="/libyassufi/" class="more-link">Continue reading <span class="screen-reader-text">Libya’s Sufi Character Cannot Be Erased</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/libyassufi/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Senegal &#8211; Baraza</title>
+	<atom:link href="/category/geography/senegal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Arabic in Africa and the Problem of Archival Thinking</title>
+		<link>/arabic-in-africa-and-the-problem-of-archival-thinking/</link>
+		<comments>/arabic-in-africa-and-the-problem-of-archival-thinking/#comments</comments>
+		<pubDate>Mon, 15 Dec 2014 12:25:45 +0000</pubDate>
+		<dc:creator><![CDATA[Wendell Marsh]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Senegal]]></category>
+
+		<guid isPermaLink="false">/?p=1523</guid>
+		<description><![CDATA[Ideally, ‘Eid al-Fitr joyously marks the end of Ramadan fasting with communal prayer and equally communal feasting. In Senegal, as elsewhere in the Islamic world, there are some translations in the form of the holiday but the message is the same. Known in the vernacular as Korité, it functions to bring together the community of &#8230; <a href="/arabic-in-africa-and-the-problem-of-archival-thinking/" class="more-link">Continue reading <span class="screen-reader-text">Arabic in Africa and the Problem of Archival Thinking</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/arabic-in-africa-and-the-problem-of-archival-thinking/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Tariq Ramadan&#8217;s Burden</title>
+		<link>/tariq-ramadans-burden/</link>
+		<comments>/tariq-ramadans-burden/#comments</comments>
+		<pubDate>Tue, 05 Aug 2014 19:21:03 +0000</pubDate>
+		<dc:creator><![CDATA[Wendell Marsh]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Colonialism]]></category>
+		<category><![CDATA[Gaza]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Senegal]]></category>
+
+		<guid isPermaLink="false">/?p=863</guid>
+		<description><![CDATA[During a recent debate on the Senegalese television channel TFM about the ongoing violence in Palestine, Tariq Ramadan accused one of his interlocutors Bakary Sambe of the most offensive crime for an African intellectual: having a colonized mind. Sambe, a professor at Senegal’s Gaston Berger University and coordinator of the Observatory of Radicalisms and Religious &#8230; <a href="/tariq-ramadans-burden/" class="more-link">Continue reading <span class="screen-reader-text">Tariq Ramadan&#8217;s Burden</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/tariq-ramadans-burden/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Lessons from Senegal&#8217;s Democracy</title>
+		<link>/senegaldemocracy/</link>
+		<pubDate>Mon, 19 Mar 2012 10:33:18 +0000</pubDate>
+		<dc:creator><![CDATA[Etienne Smith]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Elections]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Senegal]]></category>
+		<category><![CDATA[Abdoulaye Wade]]></category>
+		<category><![CDATA[Demonstrations]]></category>
+		<category><![CDATA[Macky Sall]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=445</guid>
+		<description><![CDATA[Elections in Senegal have a long history, going back to 1848 when the citizens of Saint-Louis and Gorée were granted universal (male) suffrage. Although limited in scope, this electoral political culture is an important legacy, and this may explain why the breakdown of the electoral process, which many observers predicted, did not happen. The unconstitutional &#8230; <a href="/senegaldemocracy/" class="more-link">Continue reading <span class="screen-reader-text">Lessons from Senegal&#8217;s Democracy</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

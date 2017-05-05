@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Raphael Cormack &#8211; Baraza</title>
+	<atom:link href="/author/rcormack/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>How to Read an Image</title>
+		<link>/how-to-read-an-image/</link>
+		<pubDate>Thu, 26 Apr 2012 06:03:51 +0000</pubDate>
+		<dc:creator><![CDATA[Raphael Cormack]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Niqab]]></category>
+		<category><![CDATA[Racism]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<category><![CDATA[Women]]></category>
+		<category><![CDATA[Image]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=308</guid>
+		<description><![CDATA[My father is an art historian. One of the criticisms I remember him leveling against non-art historians over breakfast was that “x doesn’t know how to read an image.” I had always assumed this was one of those criticisms that don’t really mean anything like: “x totally misrepresents Foucault here” or “x’s discourse is hegemonic.” &#8230; <a href="/how-to-read-an-image/" class="more-link">Continue reading <span class="screen-reader-text">How to Read an Image</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Hamlet’s Arab Journey Review</title>
+		<link>/arabhamle/</link>
+		<pubDate>Wed, 04 Apr 2012 06:37:04 +0000</pubDate>
+		<dc:creator><![CDATA[Raphael Cormack]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Language]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Egypt Arabic Literature Book Review]]></category>
+		<category><![CDATA[Hamlet]]></category>
+		<category><![CDATA[Literary Studies]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=329</guid>
+		<description><![CDATA[In 1949, Ali Bakathir published The Tragedy of Oedipus. His Oedipus was not the one that we are familiar with. This Oedipus knows from the beginning of the play that he is Laius’ murderer and that the Oracle says he is the cause of the pollution that has lead to Thebes’ plague. As a mid-twentieth century &#8230; <a href="/arabhamle/" class="more-link">Continue reading <span class="screen-reader-text">Hamlet’s Arab Journey Review</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Feminism &#8211; Baraza</title>
+	<atom:link href="/tag/feminism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Teaching Notes II: &#8220;Muslim woman&#8221;</title>
+		<link>/teaching-notes-ii/</link>
+		<comments>/teaching-notes-ii/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 13:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Women]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Gender]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[Islamophobia]]></category>
+		<category><![CDATA[pedagogy]]></category>
+		<category><![CDATA[Women's Studies]]></category>
+
+		<guid isPermaLink="false">/?p=839</guid>
+		<description><![CDATA[When our class arrived to the cluster of assigned readings on Gender and Contemporary Islamic Civilization, as a similar exercise to another that I have described on the blog, I asked my section to write down the first thing they imagine when I say, “Identify a stereotype regarding Muslim women.” This time, I decided to ask &#8230; <a href="/teaching-notes-ii/" class="more-link">Continue reading <span class="screen-reader-text">Teaching Notes II: &#8220;Muslim woman&#8221;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/teaching-notes-ii/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Politics of Labeling and Marginalization: Deconstructing Islamic Feminist Discourse</title>
+		<link>/labelingandmarginalization/</link>
+		<pubDate>Fri, 03 Aug 2012 12:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[Taylor Moore]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[Foucault]]></category>
+		<category><![CDATA[Islam]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=257</guid>
+		<description><![CDATA[According to Foucault, the production of discourse in every society is simultaneously controlled, organized, selected and redistributed according to particular procedures. These procedures are meant to “avert its [the discourse’s] power and its dangers, to cope with change events, and to evade its ponderous and awesome materiality.”I Islamic feminist discourse is no different. Just like any &#8230; <a href="/labelingandmarginalization/" class="more-link">Continue reading <span class="screen-reader-text">Politics of Labeling and Marginalization: Deconstructing Islamic Feminist Discourse</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sanskrit &#8211; Baraza</title>
+	<atom:link href="/tag/sanskrit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Sanskrit 2012</title>
+		<link>/sanskrit-2012/</link>
+		<pubDate>Fri, 23 Mar 2012 10:11:47 +0000</pubDate>
+		<dc:creator><![CDATA[Andrew Ollett]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sanskrit]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[New Delhi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=433</guid>
+		<description><![CDATA[This January, roughly 2,300 years after the composition of Pāṇini’s definitive Sanskrit grammar, scholars congregated in New Delhi to present papers on the massive and enduring cultural system represented by the language. The World Sanskrit Conference, a triennial event that brings together two worlds: one in which Sanskrit serves as the language of imagining truth, beauty and power, and &#8230; <a href="/sanskrit-2012/" class="more-link">Continue reading <span class="screen-reader-text">Sanskrit 2012</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

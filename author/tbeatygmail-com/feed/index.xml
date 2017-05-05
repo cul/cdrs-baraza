@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thalia Beaty &#8211; Baraza</title>
+	<atom:link href="/author/tbeatygmail-com/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Liberation Square</title>
+		<link>/liberationsquare/</link>
+		<pubDate>Thu, 29 Mar 2012 07:03:01 +0000</pubDate>
+		<dc:creator><![CDATA[Thalia Beaty]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Tahrir Square]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[Mubarak]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=360</guid>
+		<description><![CDATA[Ashraf Khalil’s Liberation Square offers a gritty and engrossing account of the events that took place in Egypt in 2011, using the voices of both Egypt’s most prominent political observers and the activists who risked everything in pursuit of an ever-elusive dream. Khalil, who has covered regional politics from Cairo, Jerusalem, and Iraq for a variety of &#8230; <a href="/liberationsquare/" class="more-link">Continue reading <span class="screen-reader-text">Liberation Square</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

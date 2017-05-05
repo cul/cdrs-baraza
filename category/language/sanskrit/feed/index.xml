@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sanskrit &#8211; Baraza</title>
+	<atom:link href="/category/language/sanskrit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Literature and Modernity: A Review of Sudipta Kaviraj’s &#8216;The Invention of Private Life&#8217;</title>
+		<link>/literature-and-modernity-a-review-of-sudipta-kavirajs-the-invention-of-private-life/</link>
+		<pubDate>Mon, 09 Mar 2015 03:03:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sohini Pillai]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Bengali]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Sanskrit]]></category>
+		<category><![CDATA[Text]]></category>
+
+		<guid isPermaLink="false">/?p=1632</guid>
+		<description><![CDATA[Like many students of South Asian literature, I was delighted when the Murty Classical Library of India (MCLI) was launched this January. The MCLI –– whose general editor is Sheldon Pollock –– is a collection of South Asian literary works in over twelve different languages. Although some of the volumes in the MCLI will be &#8230; <a href="/literature-and-modernity-a-review-of-sudipta-kavirajs-the-invention-of-private-life/" class="more-link">Continue reading <span class="screen-reader-text">Literature and Modernity: A Review of Sudipta Kaviraj’s &#8216;The Invention of Private Life&#8217;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Ekalavya Retold</title>
+		<link>/ekalavya/</link>
+		<pubDate>Tue, 27 Mar 2012 07:10:08 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Dust to Digital]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Language]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Sanskrit]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Caste System]]></category>
+		<category><![CDATA[Ekalavya]]></category>
+		<category><![CDATA[Mahabharata]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=364</guid>
+		<description><![CDATA[The story of Ekalavya is one of the many stories in the epic Mahabharata about the Bharata dynasty, and Vyasa is regarded as its author. Vyasa told Ganesha that he had to take the time to understand everything before he wrote it. It is the longest Sanskrit epic and was completed around 4th century CE. Ekalavya &#8230; <a href="/ekalavya/" class="more-link">Continue reading <span class="screen-reader-text">Ekalavya Retold</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Sanskrit 2012</title>
+		<link>/sanskrit-2012/</link>
+		<pubDate>Fri, 23 Mar 2012 10:11:47 +0000</pubDate>
+		<dc:creator><![CDATA[Andrew Ollett]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sanskrit]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[New Delhi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=433</guid>
+		<description><![CDATA[This January, roughly 2,300 years after the composition of Pāṇini’s definitive Sanskrit grammar, scholars congregated in New Delhi to present papers on the massive and enduring cultural system represented by the language. The World Sanskrit Conference, a triennial event that brings together two worlds: one in which Sanskrit serves as the language of imagining truth, beauty and power, and &#8230; <a href="/sanskrit-2012/" class="more-link">Continue reading <span class="screen-reader-text">Sanskrit 2012</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

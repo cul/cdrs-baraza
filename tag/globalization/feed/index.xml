@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Globalization &#8211; Baraza</title>
+	<atom:link href="/tag/globalization/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Global Unrest Ushers in New Crises of Representation: Assessing the Present and Future of Area Studies</title>
+		<link>/globalunrest/</link>
+		<pubDate>Thu, 29 Mar 2012 06:51:18 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Area Studies]]></category>
+		<category><![CDATA[Globalization]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=348</guid>
+		<description><![CDATA[The global wave of protests presently underway has ushered in a new crisis in the interdisciplinary field of area studies. The Arab Spring in particular has sounded an alarming wake-up call, leading many to challenge the relevance of modalities and methods currently employed within area studies. There is an existentialist quality underpinning this crisis, as &#8230; <a href="/globalunrest/" class="more-link">Continue reading <span class="screen-reader-text">Global Unrest Ushers in New Crises of Representation: Assessing the Present and Future of Area Studies</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

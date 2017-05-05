@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Third Electoral System &#8211; Baraza</title>
+	<atom:link href="/tag/third-electoral-system/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Elections and Empowerment: India’s Legislative Assembly Elections and What We Can Learn From Them</title>
+		<link>/indianelections/</link>
+		<pubDate>Thu, 15 Mar 2012 09:55:50 +0000</pubDate>
+		<dc:creator><![CDATA[Riksum Kazi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Civil Liberties]]></category>
+		<category><![CDATA[Elections]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Assembly Elections]]></category>
+		<category><![CDATA[BJP]]></category>
+		<category><![CDATA[Congress Party]]></category>
+		<category><![CDATA[South Asia 2012]]></category>
+		<category><![CDATA[Third Electoral System]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=421</guid>
+		<description><![CDATA[The first round of the 2012 elections has taken place in India. Of the seven legislative assemblies whose tenures expire in 2012, five states (Goa, Manipur, Punjab, Uttar Pradesh, and Uttarakhand) held elections from late January to early March. The results of these elections are important for several reasons: they are indicators of the general election results &#8230; <a href="/indianelections/" class="more-link">Continue reading <span class="screen-reader-text">Elections and Empowerment: India’s Legislative Assembly Elections and What We Can Learn From Them</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

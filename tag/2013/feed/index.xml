@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2013 &#8211; Baraza</title>
+	<atom:link href="/tag/2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Reconsidering the Shia as the &#8216;Other&#8217; in Pakistan</title>
+		<link>/reconsidering-the-shia-as-the-other-in-pakistan/</link>
+		<pubDate>Fri, 01 Mar 2013 20:26:56 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[2013]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[January 10]]></category>
+		<category><![CDATA[Muslim]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[popular Islam]]></category>
+		<category><![CDATA[Shia]]></category>
+		<category><![CDATA[Shia genocide]]></category>
+		<category><![CDATA[Sunni]]></category>
+		<category><![CDATA[Tolerant]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=64</guid>
+		<description><![CDATA[January 10th, 2013 marked one of the worst episode of Shia genocide in Pakistan when two bomb blasts targeting the Hazara Shia community, killed almost 200 people in a busy marketplace in Quetta. The Hazara Shias, who have been systematically and ruthlessly killed for almost a decade, refused to bury their dead and sat alongside with their bodies &#8230; <a href="/reconsidering-the-shia-as-the-other-in-pakistan/" class="more-link">Continue reading <span class="screen-reader-text">Reconsidering the Shia as the &#8216;Other&#8217; in Pakistan</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

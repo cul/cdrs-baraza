@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rap &#8211; Baraza</title>
+	<atom:link href="/tag/rap/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Watch the Throne: The Moroccan Monarchy’s Mic Check</title>
+		<link>/miccheck/</link>
+		<pubDate>Fri, 03 Aug 2012 04:39:35 +0000</pubDate>
+		<dc:creator><![CDATA[Chantal James]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Maghreb]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Freedom of Speech]]></category>
+		<category><![CDATA[Hip Hop]]></category>
+		<category><![CDATA[Morocco]]></category>
+		<category><![CDATA[North Africa]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Rap]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=249</guid>
+		<description><![CDATA[This July Morocco celebrated Throne Day, in celebration of King Mohammed VI’s ascension to the throne thirteen years ago. He seems to have much to celebrate; time and again, the crown asserts itself as secure against threats large and small. What has been the Moroccan monarchy’s secret to maintaining power in a post-Bouazizi world, when &#8230; <a href="/miccheck/" class="more-link">Continue reading <span class="screen-reader-text">Watch the Throne: The Moroccan Monarchy’s Mic Check</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Islamic Studies &#8211; Baraza</title>
+	<atom:link href="/tag/islamic-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Teaching Notes II: &#8220;Muslim woman&#8221;</title>
+		<link>/teaching-notes-ii/</link>
+		<comments>/teaching-notes-ii/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 13:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Feminism]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Women]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Gender]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[Islamophobia]]></category>
+		<category><![CDATA[pedagogy]]></category>
+		<category><![CDATA[Women's Studies]]></category>
+
+		<guid isPermaLink="false">/?p=839</guid>
+		<description><![CDATA[When our class arrived to the cluster of assigned readings on Gender and Contemporary Islamic Civilization, as a similar exercise to another that I have described on the blog, I asked my section to write down the first thing they imagine when I say, “Identify a stereotype regarding Muslim women.” This time, I decided to ask &#8230; <a href="/teaching-notes-ii/" class="more-link">Continue reading <span class="screen-reader-text">Teaching Notes II: &#8220;Muslim woman&#8221;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/teaching-notes-ii/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Arabic and the Divine in South Asia</title>
+		<link>/arabicsouthasia/</link>
+		<pubDate>Sun, 24 Jun 2012 05:20:58 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Gupta]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Arabic Literature]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=281</guid>
+		<description><![CDATA[While studying in Cairo in 2009, taxi drivers would often ask me if I studied at Al-Azhar University. Although I was conversant in the Egyptian dialect of Arabic, several of my syllables strayed from native pronunciations. Sometimes I’d slip in some literary phrase if I couldn&#8217;t come up with the dialect, which made it plausible &#8230; <a href="/arabicsouthasia/" class="more-link">Continue reading <span class="screen-reader-text">Arabic and the Divine in South Asia</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>The Good Fight: Combating Misconceptions of Islamic Studies</title>
+		<link>/goodfight/</link>
+		<pubDate>Wed, 04 Apr 2012 06:27:40 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Islamism]]></category>
+		<category><![CDATA[Muslim]]></category>
+		<category><![CDATA[Terrorism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=326</guid>
+		<description><![CDATA[A recent feature article published in the McGill Daily&#8211;my alma mater’s independent newspaper&#8211;recounted the detainment of Islamic Studies PhD student Pascal Abidor during a trip home to New York from Montreal via Amtrak. Abidor presented his passport to the border patrol officers as the train entered the United States, and when asked where he lived and &#8230; <a href="/goodfight/" class="more-link">Continue reading <span class="screen-reader-text">The Good Fight: Combating Misconceptions of Islamic Studies</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

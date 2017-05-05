@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IndoPersian &#8211; Baraza</title>
+	<atom:link href="/tag/indopersian/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Persian, Indo-Persian, and Homeless Texts</title>
+		<link>/indopersianhomelesstexts/</link>
+		<comments>/indopersianhomelesstexts/#comments</comments>
+		<pubDate>Tue, 03 Jul 2012 05:02:38 +0000</pubDate>
+		<dc:creator><![CDATA[Arthur Dudney]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Farsi]]></category>
+		<category><![CDATA[Hindi]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Indo-Persian]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Language]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Area Studies]]></category>
+		<category><![CDATA[IndoPersian]]></category>
+		<category><![CDATA[Persian]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=274</guid>
+		<description><![CDATA[  He caught up with me as I turned the corner in Connaught Place (C.P.), the shopping hub in central Delhi where I had been running some errands. He was fair-skinned and wearing a checked shirt, jeans and bright sneakers–the basic uniform of young men in urban India. He was probably one of the Kashmiris &#8230; <a href="/indopersianhomelesstexts/" class="more-link">Continue reading <span class="screen-reader-text">Persian, Indo-Persian, and Homeless Texts</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/indopersianhomelesstexts/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

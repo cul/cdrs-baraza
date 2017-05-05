@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Turkey &#8211; Baraza</title>
+	<atom:link href="/category/geography/turkey/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Ottoman Postcards in a Post-Ottoman World</title>
+		<link>/ottoman-postcards-in-a-post-ottoman-world/</link>
+		<comments>/ottoman-postcards-in-a-post-ottoman-world/#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 01:57:51 +0000</pubDate>
+		<dc:creator><![CDATA[Matthew Ghazarian]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Ottoman]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Turkey]]></category>
+		<category><![CDATA[Turkish]]></category>
+
+		<guid isPermaLink="false">/?p=1346</guid>
+		<description><![CDATA[Visitors have fallen in love with Istanbul for generations. In the early 20th century, photographers, both Ottoman and European, captured its blue seas, red roofs, and beige buildings. Despite its beauty, the city’s riot of color obscures a troubling past of missing signs, sounds, and scripts. Listen closely. The sounds of Turkish give voice to &#8230; <a href="/ottoman-postcards-in-a-post-ottoman-world/" class="more-link">Continue reading <span class="screen-reader-text">Ottoman Postcards in a Post-Ottoman World</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/ottoman-postcards-in-a-post-ottoman-world/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Modernities of Turkey&#8217;s Past</title>
+		<link>/turkeyspast/</link>
+		<pubDate>Sun, 18 Nov 2012 02:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Turkey]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Memory]]></category>
+		<category><![CDATA[Modernity]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[secularism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=201</guid>
+		<description><![CDATA[I was raised in Turkey in a practicing Muslim family dedicated to fighting against the Kemalist secular ideology of the state, and attended a public school where this official ideology was taught with a passion. I quickly learned to keep my critical comments about the regime to myself. At school, Kemal Ataturk was depicted as &#8230; <a href="/turkeyspast/" class="more-link">Continue reading <span class="screen-reader-text">Modernities of Turkey&#8217;s Past</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

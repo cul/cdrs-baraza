@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Muslim Brotherhood &#8211; Baraza</title>
+	<atom:link href="/tag/muslim-brotherhood/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Modeling the Collective Hero: An Interview with Egyptian Playwright Ibrahim El-Husseiny</title>
+		<link>/modeling-the-collective-hero-an-interview-with-egyptian-playwright-ibrahim-el-husseiny/</link>
+		<pubDate>Tue, 19 Mar 2013 15:06:55 +0000</pubDate>
+		<dc:creator><![CDATA[Hani Omer]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Egypt Revolution]]></category>
+		<category><![CDATA[Hani Omar Khalil]]></category>
+		<category><![CDATA[Muslim Brotherhood]]></category>
+		<category><![CDATA[SCAF]]></category>
+		<category><![CDATA[theatre]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=510</guid>
+		<description><![CDATA[Ibrahim El-Husseiny wrote the play &#8220;Comedy of Sorrows&#8221; only a few months after Egyptian president Hosni Mubarak&#8217;s resignation in February of 2011.  As such, it was one of the very first creative pieces produced in response to the Egyptian revolution.  Following a run of 60 performances in Egypt, a translation by Rebekah Maggor toured the States &#8230; <a href="/modeling-the-collective-hero-an-interview-with-egyptian-playwright-ibrahim-el-husseiny/" class="more-link">Continue reading <span class="screen-reader-text">Modeling the Collective Hero: An Interview with Egyptian Playwright Ibrahim El-Husseiny</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

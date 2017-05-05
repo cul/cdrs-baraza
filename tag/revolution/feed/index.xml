@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revolution &#8211; Baraza</title>
+	<atom:link href="/tag/revolution/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Global Unrest Ushers in New Crises of Representation: Assessing the Present and Future of Area Studies</title>
+		<link>/globalunrest/</link>
+		<pubDate>Thu, 29 Mar 2012 06:51:18 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Area Studies]]></category>
+		<category><![CDATA[Globalization]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=348</guid>
+		<description><![CDATA[The global wave of protests presently underway has ushered in a new crisis in the interdisciplinary field of area studies. The Arab Spring in particular has sounded an alarming wake-up call, leading many to challenge the relevance of modalities and methods currently employed within area studies. There is an existentialist quality underpinning this crisis, as &#8230; <a href="/globalunrest/" class="more-link">Continue reading <span class="screen-reader-text">Global Unrest Ushers in New Crises of Representation: Assessing the Present and Future of Area Studies</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>“The End of an Era”: A Genealogical Analysis of “Sectarianism” in Egypt and the Memory of Pope Shenouda III</title>
+		<link>/sectarianisminegypt/</link>
+		<pubDate>Tue, 27 Mar 2012 10:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Candace Lukasik]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Coptic Christian]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Women]]></category>
+		<category><![CDATA[Coptic]]></category>
+		<category><![CDATA[Pope Shenouda]]></category>
+		<category><![CDATA[Sectarianism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=426</guid>
+		<description><![CDATA[  Pope Shenouda III’s passing comes at a moment of political uncertainty for a new Egypt and its Coptic communities. In Western media, fears of “sectarian violence” and potential “religious discrimination” have been expressed in numerous articles focusing on his passing as the next stage of a timeless religious conflict that will erupt between the Muslim &#8230; <a href="/sectarianisminegypt/" class="more-link">Continue reading <span class="screen-reader-text">“The End of an Era”: A Genealogical Analysis of “Sectarianism” in Egypt and the Memory of Pope Shenouda III</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Libyan Media: In Chaos or Right Where it Should Be?</title>
+		<link>/libyanmedia/</link>
+		<pubDate>Fri, 03 Feb 2012 09:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Civil Liberties]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[alGaddafi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=416</guid>
+		<description><![CDATA[After 42 years under the tight grip of Muammar al-Gaddafi, Libya is not only experiencing a political revolution but also a media revolution. The tightly controlled state-run media of the Gaddafi regime allowed no room for free expression or criticism. As the revolution which began in February of 2011 spread across Libya, numerous media outlets &#8230; <a href="/libyanmedia/" class="more-link">Continue reading <span class="screen-reader-text">Libyan Media: In Chaos or Right Where it Should Be?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

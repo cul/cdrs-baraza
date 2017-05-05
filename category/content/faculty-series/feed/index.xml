@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Faculty Series &#8211; Baraza</title>
+	<atom:link href="/category/content/faculty-series/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Philology &#038; Disciplinarity</title>
+		<link>/philology-disciplinarity/</link>
+		<comments>/philology-disciplinarity/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 11:55:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sheldon Pollock]]></dc:creator>
+				<category><![CDATA[Faculty Series]]></category>
+		<category><![CDATA[Language]]></category>
+		<category><![CDATA[Philology]]></category>
+
+		<guid isPermaLink="false">/?p=1548</guid>
+		<description><![CDATA[A struggle has long been under way in the American university, sharpening especially in the past two decades, between area-based and discipline-based knowledge. The distinction between the two often maps closely against another, which differentiates humanistic from nonhumanistic knowledge. This is most obviously so in the case of philology, which in American universities has always &#8230; <a href="/philology-disciplinarity/" class="more-link">Continue reading <span class="screen-reader-text">Philology &#038; Disciplinarity</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/philology-disciplinarity/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

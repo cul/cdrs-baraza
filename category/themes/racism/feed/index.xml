@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Racism &#8211; Baraza</title>
+	<atom:link href="/category/themes/racism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Antonio de Sosa’s Moors/Moros in &#8216;Topography of Algiers&#8217;</title>
+		<link>/antonio-de-sosas-moorsmoros-in-topography-of-algiers/</link>
+		<comments>/antonio-de-sosas-moorsmoros-in-topography-of-algiers/#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 15:50:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Colonialism]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Maghreb]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Racism]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Algiers]]></category>
+		<category><![CDATA[Andalus]]></category>
+		<category><![CDATA[Antonio de Sosa]]></category>
+		<category><![CDATA[berbers]]></category>
+		<category><![CDATA[early modern]]></category>
+		<category><![CDATA[Iberian Peninsula]]></category>
+		<category><![CDATA[moors]]></category>
+		<category><![CDATA[Muslims]]></category>
+		<category><![CDATA[race thinking]]></category>
+		<category><![CDATA[renegades]]></category>
+		<category><![CDATA[Spain]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=628</guid>
+		<description><![CDATA[In Covarrubia’s seventeenth century dictionary Tesoro de La Lengua Castellana O Española, moro (from the Latin Maurus) is defined as “one from the province of Mauritania.” The term is meant to be used pejoratively as in the proverb, “A Moro muerto, gran lanzada” (p.1150). The Real Academia Española offers more than eleven definitions, including the &#8230; <a href="/antonio-de-sosas-moorsmoros-in-topography-of-algiers/" class="more-link">Continue reading <span class="screen-reader-text">Antonio de Sosa’s Moors/Moros in &#8216;Topography of Algiers&#8217;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/antonio-de-sosas-moorsmoros-in-topography-of-algiers/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>How to Read an Image</title>
+		<link>/how-to-read-an-image/</link>
+		<pubDate>Thu, 26 Apr 2012 06:03:51 +0000</pubDate>
+		<dc:creator><![CDATA[Raphael Cormack]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Niqab]]></category>
+		<category><![CDATA[Racism]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<category><![CDATA[Women]]></category>
+		<category><![CDATA[Image]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=308</guid>
+		<description><![CDATA[My father is an art historian. One of the criticisms I remember him leveling against non-art historians over breakfast was that “x doesn’t know how to read an image.” I had always assumed this was one of those criticisms that don’t really mean anything like: “x totally misrepresents Foucault here” or “x’s discourse is hegemonic.” &#8230; <a href="/how-to-read-an-image/" class="more-link">Continue reading <span class="screen-reader-text">How to Read an Image</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

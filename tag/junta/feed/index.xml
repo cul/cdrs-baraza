@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Junta &#8211; Baraza</title>
+	<atom:link href="/tag/junta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Conflict Heats Up Across the Sahara</title>
+		<link>/conflictsahara/</link>
+		<pubDate>Thu, 29 Mar 2012 06:38:46 +0000</pubDate>
+		<dc:creator><![CDATA[Wendell Marsh]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sahara]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Coup]]></category>
+		<category><![CDATA[Junta]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Mali]]></category>
+		<category><![CDATA[Military]]></category>
+		<category><![CDATA[Senegal]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=334</guid>
+		<description><![CDATA[A month ago, few would have suspected that Mali’s government was in line to have its power usurped by its 7,500-man army. President Amadou Toumani Touré, whose present whereabouts are unknown, has been lauded for his democratic governance and was a likely candidate for the ever elusive Mo Ibrahim prize for African leaders who voluntarily cede power. Next &#8230; <a href="/conflictsahara/" class="more-link">Continue reading <span class="screen-reader-text">Conflict Heats Up Across the Sahara</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Libya &#8211; Baraza</title>
+	<atom:link href="/tag/libya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Libya’s Sufi Character Cannot Be Erased</title>
+		<link>/libyassufi/</link>
+		<comments>/libyassufi/#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 04:19:09 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[North Africa]]></category>
+		<category><![CDATA[Salafists]]></category>
+		<category><![CDATA[Sanusiyya]]></category>
+		<category><![CDATA[Sufi]]></category>
+		<category><![CDATA[Wahhabi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=240</guid>
+		<description><![CDATA[Multiple attacks on Sufi religious and historical sites last week highlight two threats to Libya’s democratic transition: Islamic extremism and the failure of the government to take action. On 25 August, Salafist extremists destroyed a Sufi shrine and library in Zlitan. The following day, Salafist extremists attacked the Sha’ab Mosque in Tripoli, which contained the graves of revered Sufi &#8230; <a href="/libyassufi/" class="more-link">Continue reading <span class="screen-reader-text">Libya’s Sufi Character Cannot Be Erased</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/libyassufi/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Conflict Heats Up Across the Sahara</title>
+		<link>/conflictsahara/</link>
+		<pubDate>Thu, 29 Mar 2012 06:38:46 +0000</pubDate>
+		<dc:creator><![CDATA[Wendell Marsh]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sahara]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Coup]]></category>
+		<category><![CDATA[Junta]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Mali]]></category>
+		<category><![CDATA[Military]]></category>
+		<category><![CDATA[Senegal]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=334</guid>
+		<description><![CDATA[A month ago, few would have suspected that Mali’s government was in line to have its power usurped by its 7,500-man army. President Amadou Toumani Touré, whose present whereabouts are unknown, has been lauded for his democratic governance and was a likely candidate for the ever elusive Mo Ibrahim prize for African leaders who voluntarily cede power. Next &#8230; <a href="/conflictsahara/" class="more-link">Continue reading <span class="screen-reader-text">Conflict Heats Up Across the Sahara</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Libyan Media: In Chaos or Right Where it Should Be?</title>
+		<link>/libyanmedia/</link>
+		<pubDate>Fri, 03 Feb 2012 09:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Civil Liberties]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[alGaddafi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=416</guid>
+		<description><![CDATA[After 42 years under the tight grip of Muammar al-Gaddafi, Libya is not only experiencing a political revolution but also a media revolution. The tightly controlled state-run media of the Gaddafi regime allowed no room for free expression or criticism. As the revolution which began in February of 2011 spread across Libya, numerous media outlets &#8230; <a href="/libyanmedia/" class="more-link">Continue reading <span class="screen-reader-text">Libyan Media: In Chaos or Right Where it Should Be?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Film &#8211; Baraza</title>
+	<atom:link href="/tag/film/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Resolving Differences in the Desert</title>
+		<link>/babaziz/</link>
+		<pubDate>Wed, 18 Apr 2012 06:16:15 +0000</pubDate>
+		<dc:creator><![CDATA[Wendell Marsh]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Farsi]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[9/11]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Rumi]]></category>
+		<category><![CDATA[Sufi Poetry]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=318</guid>
+		<description><![CDATA[Bab’Aziz, the Prince who Contemplated His Soul. Directed by Nacer Khemir. Switzerland /Hungary /France /Germany /Iran /Tunisia /UK, 2005. “Solitude is not measured by the miles of space that intervene between a man and his fellows. The really diligent student in one of the crowded hives of Cambridge College is as solitary as a dervis &#8230; <a href="/babaziz/" class="more-link">Continue reading <span class="screen-reader-text">Resolving Differences in the Desert</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Dry Humor on Humid Grounds</title>
+		<link>/dryhumoronhumidgrounds/</link>
+		<pubDate>Fri, 03 Feb 2012 09:36:34 +0000</pubDate>
+		<dc:creator><![CDATA[Hisham Fageeh]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[Tunisia]]></category>
+		<category><![CDATA[9/11]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Rumi]]></category>
+		<category><![CDATA[Sufi Poetry]]></category>
+		<category><![CDATA[Sufism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=409</guid>
+		<description><![CDATA[Being a YouTube celebrity requires cutting edge creativity, cunning new media awareness, or utter obliviousity &#8211; I like to think of myself as a paragon of all of these. My name is Hisham Fageeh, and I am the owner of the hit Saudi YouTube comedy channel HishamComedy. The channel is just shy of 3 million views &#8230; <a href="/dryhumoronhumidgrounds/" class="more-link">Continue reading <span class="screen-reader-text">Dry Humor on Humid Grounds</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

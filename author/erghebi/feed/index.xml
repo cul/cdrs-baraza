@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elizabeth Rghebi &#8211; Baraza</title>
+	<atom:link href="/author/erghebi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Libya’s Sufi Character Cannot Be Erased</title>
+		<link>/libyassufi/</link>
+		<comments>/libyassufi/#comments</comments>
+		<pubDate>Thu, 06 Sep 2012 04:19:09 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[North Africa]]></category>
+		<category><![CDATA[Salafists]]></category>
+		<category><![CDATA[Sanusiyya]]></category>
+		<category><![CDATA[Sufi]]></category>
+		<category><![CDATA[Wahhabi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=240</guid>
+		<description><![CDATA[Multiple attacks on Sufi religious and historical sites last week highlight two threats to Libya’s democratic transition: Islamic extremism and the failure of the government to take action. On 25 August, Salafist extremists destroyed a Sufi shrine and library in Zlitan. The following day, Salafist extremists attacked the Sha’ab Mosque in Tripoli, which contained the graves of revered Sufi &#8230; <a href="/libyassufi/" class="more-link">Continue reading <span class="screen-reader-text">Libya’s Sufi Character Cannot Be Erased</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/libyassufi/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Walid Jumblatt: Can He Have His Baklawa and Eat it Too?</title>
+		<link>/walidjumblatt/</link>
+		<pubDate>Fri, 23 Mar 2012 10:17:51 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Hizballah]]></category>
+		<category><![CDATA[Lebanon]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Syria]]></category>
+		<category><![CDATA[14 March]]></category>
+		<category><![CDATA[18 March]]></category>
+		<category><![CDATA[Druze]]></category>
+		<category><![CDATA[Walid Jumblatt]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=438</guid>
+		<description><![CDATA[In March 2010, he left a national dialogue session with other Lebanese politicians, because he was “sleepy and hungry.” In December 2010, responding to alleged statements attributed to him by Wikileaks, he proposed the use of “carrier pigeons or horseback mail, which is more secure.” I have wanted to write something focusing on Walid Jumblatt &#8230; <a href="/walidjumblatt/" class="more-link">Continue reading <span class="screen-reader-text">Walid Jumblatt: Can He Have His Baklawa and Eat it Too?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Libyan Media: In Chaos or Right Where it Should Be?</title>
+		<link>/libyanmedia/</link>
+		<pubDate>Fri, 03 Feb 2012 09:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Civil Liberties]]></category>
+		<category><![CDATA[Libya]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[alGaddafi]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=416</guid>
+		<description><![CDATA[After 42 years under the tight grip of Muammar al-Gaddafi, Libya is not only experiencing a political revolution but also a media revolution. The tightly controlled state-run media of the Gaddafi regime allowed no room for free expression or criticism. As the revolution which began in February of 2011 spread across Libya, numerous media outlets &#8230; <a href="/libyanmedia/" class="more-link">Continue reading <span class="screen-reader-text">Libyan Media: In Chaos or Right Where it Should Be?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

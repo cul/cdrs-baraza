@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Carnatic music &#8211; Baraza</title>
+	<atom:link href="/tag/carnatic-music/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>The Question &#038; the Kelvi</title>
+		<link>/the-question-the-kelvi/</link>
+		<pubDate>Mon, 02 Feb 2015 12:40:14 +0000</pubDate>
+		<dc:creator><![CDATA[Shiv Subramaniam]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[On Pedagogy]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Carnatic music]]></category>
+		<category><![CDATA[Tamil]]></category>
+
+		<guid isPermaLink="false">/?p=1564</guid>
+		<description><![CDATA[For several years now, my humanities education has been running in parallel with my training as a vocalist in Carnatic Music, a style of music from South India. Each December I travel to Chennai to attend the famous “music season,” a festival for Carnatic Music that sees hundreds of performances and lectures throughout the city &#8230; <a href="/the-question-the-kelvi/" class="more-link">Continue reading <span class="screen-reader-text">The Question &#038; the <i>Kelvi</i></span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

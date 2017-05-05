@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Imperialism &#8211; Baraza</title>
+	<atom:link href="/tag/imperialism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Gandhi: India’s Greatest Public Defender</title>
+		<link>/gandhiandhakko/</link>
+		<comments>/gandhiandhakko/#comments</comments>
+		<pubDate>Sun, 09 Sep 2012 04:09:02 +0000</pubDate>
+		<dc:creator><![CDATA[Lakshmi Gopal]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[M.K. Gandhi]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Colonialism]]></category>
+		<category><![CDATA[Gandhi]]></category>
+		<category><![CDATA[Imperialism]]></category>
+		<category><![CDATA[Panipat]]></category>
+		<category><![CDATA[Swaraj]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=234</guid>
+		<description><![CDATA[The renowned writer, journalist, director, and producer, Khwaja Ahmad Abbas narrates an important encounter that took place between Gandhi and Hakiman, an elderly weaver woman from Panipat. The story provides important insight into the atmosphere during the fight for freedom from colonial administration that took place on the Indian sub-continent during the first half of &#8230; <a href="/gandhiandhakko/" class="more-link">Continue reading <span class="screen-reader-text">Gandhi: India’s Greatest Public Defender</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/gandhiandhakko/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>The Origins of Satyagraha</title>
+		<link>/satyagrah/</link>
+		<pubDate>Wed, 18 Apr 2012 06:23:03 +0000</pubDate>
+		<dc:creator><![CDATA[Lakshmi Gopal]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Jihad]]></category>
+		<category><![CDATA[M.K. Gandhi]]></category>
+		<category><![CDATA[Mass Movement]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Sufism]]></category>
+		<category><![CDATA[Colonialism]]></category>
+		<category><![CDATA[Gandhi]]></category>
+		<category><![CDATA[Imperialism]]></category>
+		<category><![CDATA[Panipat]]></category>
+		<category><![CDATA[satyagraha]]></category>
+		<category><![CDATA[Swaraj]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=323</guid>
+		<description><![CDATA[Satyagraha, loosely translated as noncooperation, was a non-violent “alternative to conventional rebellion,” that Mahatma Gandhi constructed in response to discrimination against Indian expatriate communities in South Africa. In Gandhi’s own words, “it is a movement intended to replace methods of violence and a movement based entirely upon truth” (Gandhi &#38; Non-Violence, 19). The term was &#8230; <a href="/satyagrah/" class="more-link">Continue reading <span class="screen-reader-text">The Origins of Satyagraha</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

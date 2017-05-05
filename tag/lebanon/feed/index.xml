@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lebanon &#8211; Baraza</title>
+	<atom:link href="/tag/lebanon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Walid Jumblatt: Can He Have His Baklawa and Eat it Too?</title>
+		<link>/walidjumblatt/</link>
+		<pubDate>Fri, 23 Mar 2012 10:17:51 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Rghebi]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Hizballah]]></category>
+		<category><![CDATA[Lebanon]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Syria]]></category>
+		<category><![CDATA[14 March]]></category>
+		<category><![CDATA[18 March]]></category>
+		<category><![CDATA[Druze]]></category>
+		<category><![CDATA[Walid Jumblatt]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=438</guid>
+		<description><![CDATA[In March 2010, he left a national dialogue session with other Lebanese politicians, because he was “sleepy and hungry.” In December 2010, responding to alleged statements attributed to him by Wikileaks, he proposed the use of “carrier pigeons or horseback mail, which is more secure.” I have wanted to write something focusing on Walid Jumblatt &#8230; <a href="/walidjumblatt/" class="more-link">Continue reading <span class="screen-reader-text">Walid Jumblatt: Can He Have His Baklawa and Eat it Too?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

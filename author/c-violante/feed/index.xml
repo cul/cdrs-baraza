@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cristina Violante &#8211; Baraza</title>
+	<atom:link href="/author/c-violante/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Imperial Flush: Crane Co. Valves in Yemen and Saudi Arabia</title>
+		<link>/imperial-flush-crane-co-valves-in-yemen-and-saudi-arabia/</link>
+		<pubDate>Mon, 09 Feb 2015 03:02:50 +0000</pubDate>
+		<dc:creator><![CDATA[Cristina Violante]]></dc:creator>
+				<category><![CDATA[Agriculture]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[United States]]></category>
+
+		<guid isPermaLink="false">/?p=1578</guid>
+		<description><![CDATA[In America today, showering daily is a social norm. We avoid body odor, grease, and sweat, and consider such qualities unhygienic or “gross.” We also consider the technologies behind the daily shower – bathrooms, sewers, and heating systems – and the parts that construct them – valves and pipes – to be commonplace. Their omnipresence &#8230; <a href="/imperial-flush-crane-co-valves-in-yemen-and-saudi-arabia/" class="more-link">Continue reading <span class="screen-reader-text">Imperial Flush: Crane Co. Valves in Yemen and Saudi Arabia</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

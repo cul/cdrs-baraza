@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Film &#8211; Baraza</title>
+	<atom:link href="/category/media/film/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>“I Just Can’t Wait to be King”</title>
+		<link>/i-just-cant-wait-to-be-king/</link>
+		<pubDate>Mon, 08 Dec 2014 16:49:36 +0000</pubDate>
+		<dc:creator><![CDATA[Max Shmookler]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Arabic Literature]]></category>
+		<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Translations]]></category>
+
+		<guid isPermaLink="false">/?p=1520</guid>
+		<description><![CDATA[I recently came across an Arabic rendition of “I Just Can’t Wait to be King” from Disney’s 1994 blockbuster, The Lion King. It’s a fantastic translation, drawing on a variety of registers of Egyptian colloquial and modern standard Arabic to express much of the humor and dynamism of the English original. Consider Zazu, the king&#8217;s red-beaked advisor &#8230; <a href="/i-just-cant-wait-to-be-king/" class="more-link">Continue reading <span class="screen-reader-text">“I Just Can’t Wait to be King”</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Bullet Films</title>
+		<link>/bullet-films/</link>
+		<pubDate>Mon, 01 Dec 2014 13:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[Joscelyn Jurich]]></dc:creator>
+				<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Syria]]></category>
+
+		<guid isPermaLink="false">/?p=1510</guid>
+		<description><![CDATA[An uncomfortably intimate close-up of a young man’s face opens one of the most recent “bullet films” by Syrian film collective Abounaddara entitled “Don’t Forget the Plums.” The penetrating eyes of the unnamed speaker confront the viewer as he gives cautionary advice about how to deal with the media: “When you’re live on air, the &#8230; <a href="/bullet-films/" class="more-link">Continue reading <span class="screen-reader-text">Bullet Films</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>&#8220;Bored&#8221; with the Theater of War?</title>
+		<link>/bored-with-the-theater-of-war/</link>
+		<pubDate>Mon, 10 Nov 2014 12:47:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Around Campus]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[On Pedagogy]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Syria]]></category>
+		<category><![CDATA[Theater]]></category>
+
+		<guid isPermaLink="false">/?p=1467</guid>
+		<description><![CDATA[First believed to have been performed in 415 BC, Euripides’ play The Trojan Women tells of the violence committed by the Greeks during their siege of Troy, a city not too far from the borders of contemporary Syria. Scholars believe Euripides wrote the play as a critical response to the Athenian slaughter of the people &#8230; <a href="/bored-with-the-theater-of-war/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Bored&#8221; with the Theater of War?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

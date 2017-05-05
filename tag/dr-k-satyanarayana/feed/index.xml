@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr K Satyanarayana &#8211; Baraza</title>
+	<atom:link href="/tag/dr-k-satyanarayana/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Is Prof. Ashis Nandy a Sacred Cow?</title>
+		<link>/sacredcows/</link>
+		<comments>/sacredcows/#comments</comments>
+		<pubDate>Fri, 01 Feb 2013 22:24:41 +0000</pubDate>
+		<dc:creator><![CDATA[Lakshmi Gopal]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Arjuna]]></category>
+		<category><![CDATA[Ashis Nandy]]></category>
+		<category><![CDATA[Ashis Nandy and JLF]]></category>
+		<category><![CDATA[Bhagavad Gita]]></category>
+		<category><![CDATA[Dalit]]></category>
+		<category><![CDATA[Dr K Satyanarayana]]></category>
+		<category><![CDATA[Jaipur Literary Festival]]></category>
+		<category><![CDATA[JLF]]></category>
+		<category><![CDATA[Responsibility of Intellectuals]]></category>
+		<category><![CDATA[SC/ST]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=161</guid>
+		<description><![CDATA[This insightful video (produced by Dalit Camera) is perhaps the most rigorous perspective with regard to the statement made by Prof. Ashis Nandy at the Jaipur Literary Festival (JLF). Baraza has nothing but deep respect and warm regard for Prof. Ashis Nandy. We have enjoyed his support and good wishes. As a forum, we do not hold an &#8230; <a href="/sacredcows/" class="more-link">Continue reading <span class="screen-reader-text">Is Prof. Ashis Nandy a Sacred Cow?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/sacredcows/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xavier Luffin &#8211; Baraza</title>
+	<atom:link href="/author/xluffin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Mogadishu in Arabia</title>
+		<link>/mogadishu-in-arabia/</link>
+		<comments>/mogadishu-in-arabia/#comments</comments>
+		<pubDate>Mon, 17 Nov 2014 01:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[Xavier Luffin]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Arabic Literature]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Somali]]></category>
+		<category><![CDATA[Translations]]></category>
+
+		<guid isPermaLink="false">/?p=1486</guid>
+		<description><![CDATA[“People don’t know what it means to become an Arab at six years old,” writes Somali author Mohammad Ali Diriye on the back cover of his short story collection, Ila Karakas bila &#8216;awdah (One way to Caracas). Born in Somalia, Diriye went into exile at a young age, and studied in Saudi Arabia and Sudan &#8230; <a href="/mogadishu-in-arabia/" class="more-link">Continue reading <span class="screen-reader-text">Mogadishu in Arabia</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/mogadishu-in-arabia/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

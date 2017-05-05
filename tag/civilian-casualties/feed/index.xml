@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Civilian Casualties &#8211; Baraza</title>
+	<atom:link href="/tag/civilian-casualties/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Good War/Bad Terror: Morality, Violence, and the (De)Valuation of Palestinian Life</title>
+		<link>/goodwarbadterror/</link>
+		<pubDate>Wed, 21 Mar 2012 10:25:48 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Gaza]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[Civilian Casualties]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Operation Cast Lead]]></category>
+		<category><![CDATA[Terrorism]]></category>
+		<category><![CDATA[war]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=442</guid>
+		<description><![CDATA[Last Friday, the Israeli Air Force killed two members of the Palestinian Resistance Committee in Gaza, who were believed to be planning an attack on Israel from the Egyptian Sinai some time in the following days. This sparked an onslaught of rocket attacks from Gaza into Southern Israel, and Israeli airstrikes on Gaza, with civilian &#8230; <a href="/goodwarbadterror/" class="more-link">Continue reading <span class="screen-reader-text">Good War/Bad Terror: Morality, Violence, and the (De)Valuation of Palestinian Life</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

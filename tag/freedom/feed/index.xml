@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freedom &#8211; Baraza</title>
+	<atom:link href="/tag/freedom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>&#8220;Freedom Must be an Ideal with a Social Content&#8221;</title>
+		<link>/18/</link>
+		<comments>/18/#comments</comments>
+		<pubDate>Fri, 08 Mar 2013 02:31:01 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Dust to Digital]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[M.N. Roy]]></category>
+		<category><![CDATA[National Archives of India]]></category>
+		<category><![CDATA[Radical Democrats]]></category>
+		<category><![CDATA[Social Reform]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/2013/03/17/18/</guid>
+		<description><![CDATA[  From The Sunday Observer of October 22, 1944 The following message was sent by Mr. M.N. Roy to the Bengal Provincial Conference of the Radical Democratic Party held on October 14/15, 1944 at Jaynagar under the presidentship of A.N. Chattopadyay M.L.A. (Central) Dear Comrades, More than half a century has passed since the place of the &#8230; <a href="/18/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Freedom Must be an Ideal with a Social Content&#8221;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/18/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

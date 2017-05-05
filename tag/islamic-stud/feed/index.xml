@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Islamic stud &#8211; Baraza</title>
+	<atom:link href="/tag/islamic-stud/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Teaching Notes: &#8220;Name that Fictional Muslim Character&#8221;</title>
+		<link>/teaching-notes-sahar-ullah/</link>
+		<pubDate>Sat, 28 Jun 2014 13:30:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Geography]]></category>
+		<category><![CDATA[Identity]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Narrative]]></category>
+		<category><![CDATA[On Pedagogy]]></category>
+		<category><![CDATA[Islamic stud]]></category>
+		<category><![CDATA[literature]]></category>
+		<category><![CDATA[pedagogy]]></category>
+
+		<guid isPermaLink="false">/?p=832</guid>
+		<description><![CDATA[Teaching Notes Mid-semester, I asked my Contemporary Islamic Civilizations section* to write down the first thing that pops in their mind when I say, “Name a fictional Muslim character.” I gave the students a minute, collected the names and then read them out loud.This is what they wrote (and how they wrote it): Aladdin: 4 &#8230; <a href="/teaching-notes-sahar-ullah/" class="more-link">Continue reading <span class="screen-reader-text">Teaching Notes: &#8220;Name that Fictional Muslim Character&#8221;</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

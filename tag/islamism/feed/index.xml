@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Islamism &#8211; Baraza</title>
+	<atom:link href="/tag/islamism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Good Violence, Bad Violence</title>
+		<link>/goodviolencebadviolence/</link>
+		<comments>/goodviolencebadviolence/#comments</comments>
+		<pubDate>Sun, 24 Feb 2013 21:29:37 +0000</pubDate>
+		<dc:creator><![CDATA[Hamza Saif]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Mahmood Mamdani]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Critcal Review]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Islamism]]></category>
+		<category><![CDATA[Terrorism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=118</guid>
+		<description><![CDATA[Written in the aftermath of September 11, 2001, Mahmood Mamdani’s 2005 book Good Muslim, BadMuslim historicizes the violence of terrorism. It extricates terrorism from the narrow morality that arises from the convergence of ethics and national interest, and instead locates terrorism “first and foremost as unfinished business of the Cold War.”1 “Good” and “bad” Muslims, terms borrowed from former &#8230; <a href="/goodviolencebadviolence/" class="more-link">Continue reading <span class="screen-reader-text">Good Violence, Bad Violence</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/goodviolencebadviolence/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>The Good Fight: Combating Misconceptions of Islamic Studies</title>
+		<link>/goodfight/</link>
+		<pubDate>Wed, 04 Apr 2012 06:27:40 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Islamic Studies]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Text]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Islamism]]></category>
+		<category><![CDATA[Muslim]]></category>
+		<category><![CDATA[Terrorism]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=326</guid>
+		<description><![CDATA[A recent feature article published in the McGill Daily&#8211;my alma mater’s independent newspaper&#8211;recounted the detainment of Islamic Studies PhD student Pascal Abidor during a trip home to New York from Montreal via Amtrak. Abidor presented his passport to the border patrol officers as the train entered the United States, and when asked where he lived and &#8230; <a href="/goodfight/" class="more-link">Continue reading <span class="screen-reader-text">The Good Fight: Combating Misconceptions of Islamic Studies</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

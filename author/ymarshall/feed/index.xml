@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yannick Marshall &#8211; Baraza</title>
+	<atom:link href="/author/ymarshall/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Featured Poet: Yannick Marshall</title>
+		<link>/featured-poet-yannick-marshall/</link>
+		<pubDate>Thu, 04 Oct 2012 00:16:13 +0000</pubDate>
+		<dc:creator><![CDATA[Yannick Marshall]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Global South]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=219</guid>
+		<description><![CDATA[[from Old Friend, We Made This for You] WAITING FOR METRO Yannick Marshall &#8212; Waiting for Metro from Baraza Video on Vimeo. i) i have a gun in a Hardo Bread bag waiting for Metro marching from the marshlands of Suburbia, to occupy our lands waiting the snails will no longer be crushed, by black boots &#8230; <a href="/featured-poet-yannick-marshall/" class="more-link">Continue reading <span class="screen-reader-text">Featured Poet: Yannick Marshall</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

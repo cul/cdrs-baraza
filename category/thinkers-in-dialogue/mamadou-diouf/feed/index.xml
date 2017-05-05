@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mamadou Diouf &#8211; Baraza</title>
+	<atom:link href="/category/thinkers-in-dialogue/mamadou-diouf/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Five Questions with Prof. Mamadou Diouf</title>
+		<link>/5qdiouf/</link>
+		<pubDate>Fri, 16 Nov 2012 02:51:39 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[Five Questions]]></category>
+		<category><![CDATA[Mamadou Diouf]]></category>
+		<category><![CDATA[Area Studies]]></category>
+		<category><![CDATA[Ashis Nandy]]></category>
+		<category><![CDATA[Future of Area Studies]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Nation]]></category>
+		<category><![CDATA[Religion]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=211</guid>
+		<description><![CDATA[Five Questions with Prof. Mamadou Diouf from Baraza Video on Vimeo. Mamadou Diouf is the Leitner Family Professor of African Studies and the Director of the Institute for African Studies at Columbia University. Educated primarially in France, Diouf is a renowned West African scholar who has taught in his native Senegal at the University Cheikh &#8230; <a href="/5qdiouf/" class="more-link">Continue reading <span class="screen-reader-text">Five Questions with Prof. Mamadou Diouf</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

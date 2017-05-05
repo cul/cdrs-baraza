@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Theater &#8211; Baraza</title>
+	<atom:link href="/tag/theater/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>&#8220;Bored&#8221; with the Theater of War?</title>
+		<link>/bored-with-the-theater-of-war/</link>
+		<pubDate>Mon, 10 Nov 2014 12:47:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sahar Ullah]]></dc:creator>
+				<category><![CDATA[Arabic]]></category>
+		<category><![CDATA[Around Campus]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[On Pedagogy]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Syria]]></category>
+		<category><![CDATA[Theater]]></category>
+
+		<guid isPermaLink="false">/?p=1467</guid>
+		<description><![CDATA[First believed to have been performed in 415 BC, Euripides’ play The Trojan Women tells of the violence committed by the Greeks during their siege of Troy, a city not too far from the borders of contemporary Syria. Scholars believe Euripides wrote the play as a critical response to the Athenian slaughter of the people &#8230; <a href="/bored-with-the-theater-of-war/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Bored&#8221; with the Theater of War?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

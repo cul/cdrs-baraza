@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kai Kresse &#8211; Baraza</title>
+	<atom:link href="/author/kkresse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Abdilatif Abdalla: Poet and Political Activist</title>
+		<link>/abdilatif-abdalla-poet-and-political-activist/</link>
+		<pubDate>Mon, 03 Nov 2014 00:42:58 +0000</pubDate>
+		<dc:creator><![CDATA[Kai Kresse]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Around Campus]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Human Rights]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Swahili]]></category>
+		<category><![CDATA[Translations]]></category>
+
+		<guid isPermaLink="false">/?p=1445</guid>
+		<description><![CDATA[Abdilatif Abdalla, who will be visiting MESAAS and the Institute of African Studies at Columbia on November 12th and 13th, is one of the most renowned living Swahili poets. Mixing poetry and politics has been a feature of Swahili society for a long time, and classic historical Swahili poets, like Fumo Liyongo and Muyaka bin &#8230; <a href="/abdilatif-abdalla-poet-and-political-activist/" class="more-link">Continue reading <span class="screen-reader-text">Abdilatif Abdalla: Poet and Political Activist</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

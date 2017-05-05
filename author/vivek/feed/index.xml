@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vivek Yadav &#8211; Baraza</title>
+	<atom:link href="/author/vivek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>The Electoral Hawa</title>
+		<link>/the-electoral-hawa/</link>
+		<comments>/the-electoral-hawa/#comments</comments>
+		<pubDate>Mon, 02 Mar 2015 12:03:18 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Yadav]]></dc:creator>
+				<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Elections]]></category>
+		<category><![CDATA[Hindi]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Politics]]></category>
+
+		<guid isPermaLink="false">/?p=1619</guid>
+		<description><![CDATA[Election results in India are not merely an aggregate of atomistic decisions made on the polling day. Even before the first vote is cast, a significant degree of synchronization has usually already taken place in the voting choices of the vast majority of the electorate. One of two scenarios usually obtains. Either a candidate wins &#8230; <a href="/the-electoral-hawa/" class="more-link">Continue reading <span class="screen-reader-text">The Electoral Hawa</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>/the-electoral-hawa/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

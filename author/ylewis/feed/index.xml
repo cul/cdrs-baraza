@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yitzhak Lewis &#8211; Baraza</title>
+	<atom:link href="/author/ylewis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>The (Jewish) Christian Question</title>
+		<link>/the-jewish-christian-question/</link>
+		<pubDate>Mon, 29 Sep 2014 02:14:52 +0000</pubDate>
+		<dc:creator><![CDATA[Yitzhak Lewis]]></dc:creator>
+				<category><![CDATA[Around Campus]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[MESAAS]]></category>
+
+		<guid isPermaLink="false">/?p=1216</guid>
+		<description><![CDATA[A comment on Gil Anidjar’s paper “Jesus and Monotheism” and its discussion at the MESAAS department colloquium on September 11th. Murder, it soon becomes clear, goes far beyond the “who-done-it?” digressions, down which Freud (and Anidjar) takes his readers. This word designates more than a crime, far more than an action. It describes a kind &#8230; <a href="/the-jewish-christian-question/" class="more-link">Continue reading <span class="screen-reader-text">The (Jewish) Christian Question</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

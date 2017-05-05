@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Conference MESAAS &#8211; Baraza</title>
+	<atom:link href="/tag/conference-mesaas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Decolonizing the Digital</title>
+		<link>/decolonizing-the-digital/</link>
+		<pubDate>Thu, 17 Jan 2013 22:40:13 +0000</pubDate>
+		<dc:creator><![CDATA[barazaonline]]></dc:creator>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Columbia University]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[Columbia]]></category>
+		<category><![CDATA[Conference MESAAS]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=171</guid>
+		<description><![CDATA[&#160; &#160; &#160; On February 28th and March 1st 2013, the Department of Middle Eastern, South Asian, and African Studies at Columbia University will be hosting its annual graduate conference. Titled “Paradigmatic Conflict and Crisis,” the conference seeks to showcase the work of emerging scholars whose research is concerned with the spaces between conflicting, emerging, and established &#8230; <a href="/decolonizing-the-digital/" class="more-link">Continue reading <span class="screen-reader-text">Decolonizing the Digital</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Palestine &#8211; Baraza</title>
+	<atom:link href="/tag/palestine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Critical Collaboration on the Middle East, South Asia, and Africa</description>
+	<lastBuildDate>Mon, 10 Apr 2017 23:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Palestine and the Fight for Water Access</title>
+		<link>/palestinewater/</link>
+		<pubDate>Mon, 19 Mar 2012 10:39:33 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Apartheid]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Civil Liberties]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[apartheid]]></category>
+		<category><![CDATA[Foreign Policy]]></category>
+		<category><![CDATA[Gaza]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Shimon Peres]]></category>
+		<category><![CDATA[Water]]></category>
+		<category><![CDATA[West Bank]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=453</guid>
+		<description><![CDATA[“Israel is a small piece of land. We are not even 1 percent of the Arab space, you know. We don’t have water. We don’t have oil. Our greatness, if one may say greatness, stems from the fact we had nothing to start with. So we turned to human talent because there weren’t natural resources. &#8230; <a href="/palestinewater/" class="more-link">Continue reading <span class="screen-reader-text">Palestine and the Fight for Water Access</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Occupy AIPAC: Continuing a Movement or Mimicking Discourse?</title>
+		<link>/occupyaipac/</link>
+		<pubDate>Mon, 12 Mar 2012 08:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[Candace Lukasik]]></dc:creator>
+				<category><![CDATA[Arab Revolution]]></category>
+		<category><![CDATA[Arab Spring]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[AIPAC]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Occupy AIPAC]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=376</guid>
+		<description><![CDATA[Earlier this month, Occupy AIPAC convened as the national AIPAC conference took place in Washington, D.C. With the drum beats heralding war with Iran growing louder, what seemed lost in both the AIPAC conference and the Occupy AIPAC conference was Palestine. With the Israeli government and supporters of Israel distracting the discourse away from Israeli &#8230; <a href="/occupyaipac/" class="more-link">Continue reading <span class="screen-reader-text">Occupy AIPAC: Continuing a Movement or Mimicking Discourse?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+		<item>
+		<title>Israel and the Question of Apartheid</title>
+		<link>/isrealapartheid/</link>
+		<pubDate>Sat, 03 Mar 2012 09:24:02 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Reis]]></dc:creator>
+				<category><![CDATA[Apartheid]]></category>
+		<category><![CDATA[Baraza]]></category>
+		<category><![CDATA[Discrimination]]></category>
+		<category><![CDATA[Isreal]]></category>
+		<category><![CDATA[MESAAS]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[South Africa]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<category><![CDATA[apartheid]]></category>
+		<category><![CDATA[discrimination]]></category>
+		<category><![CDATA[Israel]]></category>
+
+		<guid isPermaLink="false">http://barazaonline.wordpress.com/?p=397</guid>
+		<description><![CDATA[Israeli Apartheid Week (IAW) is upon us again, and while Columbia Students for Justice in Palestine (C-SJP) sets up on College Walk, pro-Israeli organizations ranging from Hillel to LionPAC, and the Israeli Ministry of Foreign Affairs are launching their responses to begin damage control. IAW’s detractors are quick to argue that using the term “apartheid” &#8230; <a href="/isrealapartheid/" class="more-link">Continue reading <span class="screen-reader-text">Israel and the Question of Apartheid</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		</item>
+	</channel>
+</rss>
